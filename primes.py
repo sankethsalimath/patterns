@@ -1,13 +1,11 @@
 import math
 import matplotlib.pyplot as plt
-#from tkinter import *
+
 hor = []
 ver = []
 primes=[1]
 print("Enter highest number:")
 n = int(input())
-
-
 
 def prime(givenNumber):
     # Initialize a list
